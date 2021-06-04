@@ -68,8 +68,8 @@ typings/
 
 #custom
 coverage
-dist
+#dist
 
 commands.txt
 
-/dist
+#/dist
